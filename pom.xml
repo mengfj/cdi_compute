@@ -74,10 +74,6 @@
       	<artifactId>swagger-core</artifactId>
       	<version>1.5.8</version>
       </dependency>
-      <dependency>
-      	<groupId>com.ibm.db2.jcc</groupId>
-      	<artifactId>db2jcc</artifactId>
-      </dependency>
     </dependencies>
 
     <build>
